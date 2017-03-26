@@ -1,0 +1,12 @@
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/CrudBasicoXamarinForms.App.xaml
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/CrudBasicoXamarinForms.CrudBasicoXamarinFormsPage.xaml
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/CrudBasicoXamarinForms.App.xaml.g.cs
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/CrudBasicoXamarinForms.CrudBasicoXamarinFormsPage.xaml.g.cs
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/bin/Debug/CrudBasicoXamarinForms.dll.mdb
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/bin/Debug/CrudBasicoXamarinForms.dll
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/CrudBasicoXamarinForms.dll
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/obj/Debug/CrudBasicoXamarinForms.dll.mdb
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/bin/Debug/Xamarin.Forms.Platform.dll
+/Volumes/KINGSTON/Xamarin/TesteApp/TesteApp/bin/Debug/Xamarin.Forms.Xaml.dll
